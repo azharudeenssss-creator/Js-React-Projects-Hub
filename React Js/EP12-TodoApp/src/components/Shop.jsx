@@ -11,7 +11,7 @@ const Shop = ( {user} ) => {
 
   return (
     <div>
-      <h1> Welcome to My Shop </h1>
+      <h1> Welcome to Deenz Shop </h1>
       <ProductItem product = { product } user = {user}/>
     </div>
   );

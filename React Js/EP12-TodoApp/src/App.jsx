@@ -8,7 +8,7 @@ export let UserContext = createContext();
 function App() {
   
   let [user, setUser] = useState({
-    uName: "Kesavan",
+    uName: "Hamza",
     age: 35,
     email: "abc@gmail.com",
   });
