@@ -22,7 +22,7 @@ function NavBar() {
             navbarScroll
           >
             <Nav.Link as={Link} to="/">Home</Nav.Link>
-            <Nav.Link as={Link} to="/login/kesavan">Login</Nav.Link>
+            <Nav.Link as={Link} to="/login/AZharudeen">Login</Nav.Link>
             <Nav.Link as={Link} to="/sign-up">Sign-Up</Nav.Link>
             <Nav.Link as={Link} to="/products">Products</Nav.Link>
             <Nav.Link as={Link} to="/todo">TodoApp</Nav.Link>
